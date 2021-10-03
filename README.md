@@ -7,7 +7,7 @@ Hi There! :wave: I am a computer engineer student of Federal University of Santa
 * :computer: I am a full-stack software engineer, currently more focused in frontend and always willing to learn more.
 * 🔭 I’m currently working  at @Cargon
 
-- 🌱 I’m currently interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Internet of Things and machine learning.
+- 🌱 I’m currently interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Internet of Things and Machine Learning.
 - 📫 How to reach me, you can send me a email if you want to:  renan.s.frr@gmail.com
 
 <h3 align="left">Where to find me:</h3>
