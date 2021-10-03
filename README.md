@@ -21,23 +21,23 @@ Hi There! :wave: I am a computer engineer student of Federal University of Santa
 ### Current Stack: :computer:
 
 * Programming: Javascript (React JS, Node JS);
-* Server Technologies: SQL Server, Rest
-* Mobile: React Native
-* Infra: Microsoft Azure, Aws, Git;
+* Server Technologies: SQL Server;
+* Mobile: React Native;
+* Infra: Microsoft Azure, Git;
 * Databases: SQL Server;
-* Agile practices: Scrum
+* Agile practices: Scrum.
 
 ### Have worked with : 
 
-* Language that I had put code in production:  Javascript, ReactJS
+* Language that I had put code in production:  Javascript, ReactJS;
 * Programming that I had code some applications: C/C++, Python;
-* Front-end: ReactJS, HTML, CSS
+* Front-end: ReactJS, HTML, CSS;
 * Databases: SQL Server, MongoDB, MySQL, Postgres;
-* Agile practices: Scrum
-* Mobile: React Native
+* Agile practices: Scrum;
+* Mobile: React Native.
 
 ### What I mostly want to learn nowadays:
 
-* Programming: TypeScript, Clojure, Flutter, C#, Swift
-* Server Techonologies: gRPC, RPC.
+* Programming: TypeScript, Clojure, Flutter, C#, Swift;
+* Server Techonologies: gRPC, RPC;
 * Topics: Algorithms, Data Structures, Dynamic Programming.
