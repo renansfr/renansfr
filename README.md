@@ -40,4 +40,4 @@ Hi There! :wave: I am a computer engineer student of Federal University of Santa
 
 * Programming: TypeScript, Clojure, Flutter, C#, Swift;
 * Server Techonologies: gRPC, RPC;
-* Topics: Algorithms, Data Structures, Dynamic Programming.
+* Topics: Algorithms, Data Structures, Dynamic Programming, Agile Practice of Cleaning Code.
