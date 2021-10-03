@@ -29,9 +29,9 @@ Hi There! :wave: I am a computer engineer student of Federal University of Santa
 
 ### Have worked with : 
 
-* Language that I had put code in production:  Javascript, ReactJS;
+* Language that I had put code in production:  Javascript, React JS;
 * Programming that I had code some applications: C/C++, Python;
-* Front-end: ReactJS, HTML, CSS;
+* Front-end: React JS, HTML, CSS;
 * Databases: SQL Server, MongoDB, MySQL, Postgres;
 * Agile practices: Scrum;
 * Mobile: React Native.
