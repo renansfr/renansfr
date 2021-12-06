@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Renan Ferreira</h1>
 
-Hi There! :wave: I am a computer engineering student of Federal University of Santa Catarina, currently at eighth period of college. I am currently having fun and diving with web development, using and studyng about mostly Javascript and all his ecosystem. I love learning about new technologies and I am very willing to learn about new programming languages, stacks and frameworks.
+Hi There! :wave: I am a computer engineering student of Federal University of Santa Catarina, currently at eighth period of college. I am currently having fun and diving with web development, using and studying about mostly Javascript and all his ecosystem. I love learning about new technologies and I am very willing to learn about new programming languages, stacks and frameworks.
 
  ### Pesonal stuff:
 
