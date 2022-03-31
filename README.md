@@ -28,7 +28,7 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 
 ### Have worked with : 
 
-* Language that I had put code in production:  Javascript, React JS;
+* Language that I had put code in production:  Javascript, React JS, Vue JS, Python;
 * Programming that I had code some applications: C/C++, Python;
 * Front-end: React JS;
 * Databases: SQL Server, MongoDB, MySQL, Postgres;
