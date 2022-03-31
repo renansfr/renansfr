@@ -20,11 +20,10 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 
 ### Current Stack: :computer:
 
-* Programming: Javascript (React JS, Node JS);
-* Server Technologies: SQL Server;
-* Mobile: React Native;
-* Infra: Microsoft Azure, Git;
-* Databases: SQL Server;
+* Programming: Javascript (Vue JS, Node JS);
+* Server Technologies: PostgreSQL;
+* Infra: Amazon Web Services, Microsoft Azure, Git;
+* Databases: PostgreSQL;
 * Agile practices: Scrum.
 
 ### Have worked with : 
