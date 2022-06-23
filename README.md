@@ -30,7 +30,7 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 
 * Language that I had put code in production:  Javascript, React JS, Vue JS, Python;
 * Programming that I had code some applications: C/C++, Python;
-* Front-end: React JS;
+* Front-end: Vue JS, React JS;
 * Databases: SQL Server, MongoDB, MySQL, Postgres;
 * Agile practices: Scrum;
 * Mobile: React Native.
