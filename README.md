@@ -5,7 +5,7 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 * :computer: I am a full-stack software engineer.
 * 🔭 Currently working  at @MedPrev
 
-- 🌱 Interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, Vue JS, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Internet of Things, Embedded Systems and Machine Learning.
+- 🌱 Interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, Vue JS, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Computer Vision, Internet of Things, Embedded Systems and Machine Learning.
 - 📫 How to reach me, you can send me a email if you want to:  renan.s.frr@gmail.com
 
 <h3 align="left">Where to find me:</h3>
