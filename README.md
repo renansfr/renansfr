@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Renan Ferreira</h1>
-
-Hi There! :wave: I am a computer engineering student of Federal University of Santa Catarina, currently at eighth period of college. I am currently having fun and diving with web development, using and studying about mostly Javascript and all his ecosystem. I love learning about new technologies and I am very willing to learn about new programming languages, stacks and frameworks.
+Hi There! :wave: I am a computer engineering student of Federal University of Santa Catarina and currently having fun and diving with web development, using and studying about mostly Javascript and all his ecosystem. I love learning about new technologies and I am very willing to learn about new programming languages, stacks and frameworks.
 
  ### Pesonal stuff:
 
-* :computer: I am a full-stack software engineer, currently more focused in frontend and always willing to learn more.
-* 🔭 I’m currently working  at @MedPrev
+* :computer: I am a full-stack software engineer.
+* 🔭 Currently working  at @MedPrev
 
-- 🌱 I’m currently interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, Vue JS, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Internet of Things, Embedded Systems and Machine Learning.
+- 🌱 Interested in stuffs such as: **Software Architecture, Design Principles and Patterns, Javascript, Vue JS, React JS, Node JS, React Native, Knex JS, Adonis JS, Express JS,  Sequelize, Prisma** and I'm starting study about: Internet of Things, Embedded Systems and Machine Learning.
 - 📫 How to reach me, you can send me a email if you want to:  renan.s.frr@gmail.com
 
 <h3 align="left">Where to find me:</h3>
