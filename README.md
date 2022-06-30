@@ -27,13 +27,8 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 ### Have worked with : 
 
 * Language that I had put code in production:  Javascript, React JS, Vue JS, Python;
-* Programming that I had code some applications: C/C++, Python;
+* Programming that I had code some applications: C/C++;
 * Front-end: Vue JS, React JS;
 * Databases: SQL Server, MongoDB, MySQL, Postgres;
 * Agile practices: Scrum;
 * Mobile: React Native.
-
-### What I mostly want to learn nowadays:
-
-* Programming: Clojure, Flutter, C#, Swift;
-* Topics: Algorithms, Data Structures, Dynamic Programming, Agile Practice of Cleaning Code.
