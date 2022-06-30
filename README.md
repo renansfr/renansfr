@@ -35,5 +35,5 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 
 ### What I mostly want to learn nowadays:
 
-* Programming: TypeScript, Clojure, Flutter, C#, Swift;
+* Programming: Clojure, Flutter, C#, Swift;
 * Topics: Algorithms, Data Structures, Dynamic Programming, Agile Practice of Cleaning Code.
