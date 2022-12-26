@@ -19,9 +19,9 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 ### Current Stack: :computer:
 
 * Programming: Javascript (Vue JS, Node JS);
-* Server Technologies: PostgreSQL;
-* Infra: Amazon Web Services, Microsoft Azure, Git;
-* Databases: PostgreSQL;
+* Server Technologies: Adonis JS;
+* Infra: Amazon Web Services, Gitlab, Git;
+* Databases: MySQL;
 * Agile practices: Scrum.
 
 ### Have worked with : 
@@ -29,6 +29,6 @@ Hi There! :wave: I am a computer engineering student of Federal University of Sa
 * Language that I had put code in production:  Javascript, React JS, Vue JS, Python;
 * Programming that I had code some applications: C/C++;
 * Front-end: Vue JS, React JS;
-* Databases: SQL Server, MongoDB, MySQL, Postgres;
+* Databases: SQL Server, MongoDB, MySQL, PostgreSQL;
 * Agile practices: Scrum;
 * Mobile: React Native.
